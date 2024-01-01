@@ -2,7 +2,7 @@
 
 Submitted by: Justin Chu
 
-"Hello World" is an android app that shows an image and introductory message, and allows pressing a button to display an animal. 
+"Hello World" is an android app that shows an image and introductory message, and allows pressing a button to display a message. 
 
 Time spent: 3 hours spent in total
 
@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 * [x] Image and introductory message displayed on screen
 * [x] Button displayed on screen
-* [x] Animal with message appears when button is pressed 
+* [x] Message appears when button is pressed 
 
 The following **optional** features are implemented:
 
@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/CkzmdLI' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
