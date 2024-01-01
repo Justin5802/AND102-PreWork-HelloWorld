@@ -5,7 +5,7 @@
     <string name="last_name">Chu</string>
     <string name="full_name">%s %s</string>
 
-    <string name="profile_bio_text">Hi! I am Justin Chu, and I am a junior at Hunter College.\nWelcome to my app!</string>
+    <string name="profile_bio_text">Hello World! I am Justin Chu, and I am a junior at Hunter College.\nWelcome to my app!</string>
 
     <string name="profile_hobby_header_text">My Favorite Hobbies:</string>
     <string name="profile_hobby_first_text">1. Gaming</string>
