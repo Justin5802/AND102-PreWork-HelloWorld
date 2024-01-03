@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features: [https://imgur.com/a/CkzmdLI]
+Here's a walkthrough of implemented features: https://imgur.com/a/aadr0IS
 
 
 GIF created with ... Imgur 
